@@ -119,10 +119,6 @@ if __name__ == '__main__':
            
         elif 'hello' in query:
             speak('Hello Sir')
-
-        # elif 'bye' in query:
-        #     speak('Bye Sir, have a good day.')
-        #     sys.exit()
                                     
         elif 'play music' in query:
             music_dir = 'C:\\songs'
